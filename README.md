@@ -9,7 +9,7 @@ Welcome to Block Blast! Block Blast is a fun, casual, match-2 puzzle game design
 1. [Introduction](#introduction)
 2. [Gameplay](#gameplay)
 3. [Development and Implementation](#development-and-implementation)
-4. [Demo Video](https://drive.google.com/file/d/19SKU6MNbh5U8-fR3Ld8rImCz67wYGqBy/view)
+4. [Demo Video](https://drive.google.com/file/d/1yX0myTz7z-EOYZnpIXJnje3M-4l2IJnX/view?usp=sharing)
    
 ---
 
