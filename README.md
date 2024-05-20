@@ -69,3 +69,7 @@ Each block implements the interfaces corresponding to the behaviors it needs to 
 - **Programming Language**: C#
 
 ---
+
+## Disclaimer
+
+This project is an educational exercise and is not intended for commercial use. It contains game assets from Toon Blast (developed by Peak Games) and Royal Match (developed by Dream Games). All rights to these assets remain with their respective owners. The use of these assets is solely for the purpose of learning and personal development. No part of this project may be used for commercial purposes or distributed without appropriate permissions.
