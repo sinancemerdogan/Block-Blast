@@ -1,0 +1,157 @@
+.gridlayout {
+    align-items: stretch;
+    justify-content: center;
+    flex-direction: column-reverse;
+    align-self: center;
+    overflow: visible;
+    background-color: rgb(0, 0, 0);
+    border-left-color: rgb(239, 173, 60);
+    border-right-color: rgb(239, 173, 60);
+    border-top-color: rgb(239, 173, 60);
+    border-bottom-color: rgb(239, 173, 60);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-top: 0;
+    padding-right: 5px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row {
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.spriteImage {
+    width: 71px;
+    height: 81px;
+    max-height: 81px;
+    max-width: 71px;
+    align-items: flex-start;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    align-self: center;
+}
+
+.panel {
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    justify-content: space-around;
+    align-self: auto;
+    flex-wrap: nowrap;
+}
+
+.panel1 {
+    justify-content: space-around;
+    align-self: auto;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.cell {
+    margin-top: -5px;
+    margin-bottom: -5px;
+    margin-right: -1.5px;
+    margin-left: -1.5px;
+    align-items: stretch;
+    justify-content: center;
+    align-self: stretch;
+    flex-direction: column;
+    -unity-background-scale-mode: stretch-to-fill;
+    max-width: 71px;
+    max-height: 81px;
+    width: 71px;
+    height: 81px;
+    min-height: 81px;
+    min-width: 71px;
+}
+
+.section {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(0, 0, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    align-self: center;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.blockList {
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 16px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    align-self: auto;
+}
+
+.unity-slider-int {
+}
+
+.goalsgrid {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.removebutton {
+    background-image: url('project://database/Assets/Art/close_button.png?fileID=2800000&guid=845583439898d2543a610302730e29b3&type=3#close_button');
+    width: 30px;
+    height: 30px;
+    margin-left: -15px;
+    margin-top: -50px;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}

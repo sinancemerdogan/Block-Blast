@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:ListView name="block-list" show-alternating-row-backgrounds="ContentOnly" />
+    <ui:Box name="block">
+        <ui:Image name="preview" />
+        <ui:ScrollView name="block-info-scroll">
+            <ui:Box name="block-info" />
+        </ui:ScrollView>
+    </ui:Box>
+</ui:UXML>

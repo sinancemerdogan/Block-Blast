@@ -1,0 +1,30 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/Block%20Type%20Editor/BlockTypeEditorStyles.uss?fileID=7433441132597879392&amp;guid=01f48ca7b3623534a91b1f969221573a&amp;type=3#BlockTypeEditorStyles" />
+    <ui:VisualElement name="panel">
+        <ui:VisualElement name="common" class="section">
+            <ui:Label text="Common Props" display-tooltip-when-elided="true" name="section-title" class="section-title" />
+            <uie:PropertyField binding-path="prefab" name="prefab" />
+            <uie:PropertyField name="sprites" binding-path="sprites" />
+            <uie:PropertyField name="id" binding-path="id" />
+            <uie:PropertyField binding-path="blockBlastEffect" name="block-blast-effect" />
+            <uie:PropertyField name="block-blast-sfx" binding-path="blastSFX" />
+        </ui:VisualElement>
+        <uie:PropertyField binding-path="damageReceiver" name="damage-receiver-field" />
+        <ui:VisualElement name="damage-receiver" class="section">
+            <ui:Label text="Damage Receiver Props" display-tooltip-when-elided="true" name="section-title" class="section-title" />
+            <uie:PropertyField name="health" binding-path="health" />
+            <uie:PropertyField name="block-types-can-damage-this-block" binding-path="blockTypesCanDamageThisBlock" />
+        </ui:VisualElement>
+        <uie:PropertyField binding-path="damageDealer" name="damage-dealer-field" />
+        <ui:VisualElement name="damage-dealer" class="section">
+            <ui:Label text="Damage Dealer Props" display-tooltip-when-elided="true" name="section-title" class="section-title" />
+            <uie:PropertyField name="damage" binding-path="damage" />
+        </ui:VisualElement>
+        <uie:PropertyField binding-path="creator" name="creator-field" />
+        <ui:VisualElement name="creator" class="section">
+            <ui:Label text="Creator Props" display-tooltip-when-elided="true" name="section-title" class="section-title" />
+            <uie:PropertyField name="block-types-this-block-can-create" binding-path="blockTypesThisBlockCanCreate" />
+            <uie:PropertyField binding-path="creationThresholds" name="creation-thresholds" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

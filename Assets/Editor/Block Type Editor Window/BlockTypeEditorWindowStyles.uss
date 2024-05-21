@@ -1,0 +1,37 @@
+.header 
+{
+	-unity-font-style: bold;
+	font-size: 20px;
+}
+
+#preview
+{
+	align-self: center;
+	margin-top: 8px;
+}
+
+#block-info-scroll
+{
+	flex-grow: 1;
+}
+
+#block-list 
+{
+	width:225px;
+}
+
+Box 
+{
+	flex-grow: 1;
+}
+
+TemplateContainer
+{
+	flex-grow: 1;
+	flex-direction: row;
+}
+
+ListView
+{
+	-unity-text-align: middle-center;
+}
