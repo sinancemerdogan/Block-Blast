@@ -1,4 +1,4 @@
-# Block Blast
+# Block Blast (Game Architecture With Scriptable Objects)
 
 Welcome to Block Blast! Block Blast is a fun, casual, match-2 puzzle game designed for mobile devices.
 
