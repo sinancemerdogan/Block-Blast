@@ -76,7 +76,7 @@ Each block implements the interfaces corresponding to the behaviors it needs to 
 
 ### Level Editor
 
-https://github.com/sinancemerdogan/Block-Blast/assets/72517285/1f500559-c21c-49b1-a682-5f9fefbecdc4
+![level-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/e4a7230f-ce31-4308-b2ab-326da3af2779)
 
 ### Block Editor
 
