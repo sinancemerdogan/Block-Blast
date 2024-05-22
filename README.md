@@ -73,14 +73,14 @@ Each block implements the interfaces corresponding to the behaviors it needs to 
 
 ## Custom Editors
 
-### Block Editor
-
-![block-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/c1146d62-c0a1-4dde-8849-14413a1581f4)
-
 
 ### Level Editor
 
-![level_editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/8a88ce26-150e-48a5-91bb-0bbf74ae8ba9)
+https://github.com/sinancemerdogan/Block-Blast/assets/72517285/1f500559-c21c-49b1-a682-5f9fefbecdc4
+
+### Block Editor
+
+![block-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/c1146d62-c0a1-4dde-8849-14413a1581f4)
 
 ---
 
