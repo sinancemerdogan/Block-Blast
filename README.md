@@ -28,6 +28,18 @@ Block Blast is a mobile match-2 puzzle game aimed at casual gamers and puzzle en
 
 ---
 
+## Custom Editors
+
+### Level Editor
+
+![level-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/e4a7230f-ce31-4308-b2ab-326da3af2779)
+
+### Block Editor
+
+![block-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/ce8fab13-e51b-43b0-aa18-30c93a04dd87)
+
+---
+
 ## Development and Implementation
 
 ### Object-Oriented Programming
@@ -68,19 +80,6 @@ Each block implements the interfaces corresponding to the behaviors it needs to 
 ### Tools and Technologies
 - **Game Engine**: Unity
 - **Programming Language**: C#
-
----
-
-## Custom Editors
-
-
-### Level Editor
-
-![level-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/e4a7230f-ce31-4308-b2ab-326da3af2779)
-
-### Block Editor
-
-![block-editor](https://github.com/sinancemerdogan/Block-Blast/assets/72517285/c1146d62-c0a1-4dde-8849-14413a1581f4)
 
 ---
 
