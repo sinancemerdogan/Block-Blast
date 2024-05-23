@@ -8,8 +8,8 @@ Welcome to Block Blast! Block Blast is a fun, casual, match-2 puzzle game design
 
 1. [Introduction](#introduction)
 2. [Gameplay](#gameplay)
-3. [Development and Implementation](#development-and-implementation)
-4. [Custom Editors](#custom-editors)
+3. [Custom Editors](#custom-editors)
+4. [Development and Implementation](#development-and-implementation)
 5. [Demo Video](https://drive.google.com/file/d/1yX0myTz7z-EOYZnpIXJnje3M-4l2IJnX/view?usp=sharing)
    
 ---
@@ -24,7 +24,6 @@ Block Blast is a mobile match-2 puzzle game aimed at casual gamers and puzzle en
 
 ### Core Mechanics
 - **Tap to Match**: Tap on two or more adjacent blocks of the same color to clear them from the board.
-- 
 ---
 
 ## Custom Editors
