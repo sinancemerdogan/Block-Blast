@@ -24,8 +24,7 @@ Block Blast is a mobile match-2 puzzle game aimed at casual gamers and puzzle en
 
 ### Core Mechanics
 - **Tap to Match**: Tap on two or more adjacent blocks of the same color to clear them from the board.
-- **Scoring**: Earn points for every block cleared. Higher scores for larger matches.
-
+- 
 ---
 
 ## Custom Editors
